@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|d:\\hcm uaf\\clothesshopmanagement-app\\clothes shop management demo\\demo\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\model\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\model\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\model\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\model\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|d:\\hcm uaf\\clothesshopmanagement-app\\clothes shop management demo\\demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\qlnvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\qlnvviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\addimportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\addimportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\addcustomersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\addcustomersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\importviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\importviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\settingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\detailcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\detailcustomerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\detailmoi2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\detailmoi2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\detailmoi1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\detailmoi1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\detailmoi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\detailmoi.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\detailcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\detailcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\addndview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\addndview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\view\\customersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\demo\\viewmodel\\detailproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7C48BF-A7C0-49AD-B3EA-78F82FEBE7DA}|Demo\\Demo.csproj|solutionrelative:demo\\viewmodel\\detailproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\Model1.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\Model1.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\Model1.cs",
+              "RelativeToolTip": "Demo\\Model\\Model1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:06:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCustomersViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\AddCustomersViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\AddCustomersViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\AddCustomersViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\AddCustomersViewModel.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAjwEQAAAAsAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Const.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\Const.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\Const.cs",
+              "RelativeToolTip": "Demo\\Model\\Const.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vw0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:05:01.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddImportViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\AddImportViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\AddImportViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\AddImportViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\AddImportViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBUAAABiAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Demo\\Model\\DataProvider.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\Model\\DataProvider.cs",
+              "RelativeToolTip": "Demo\\Model\\DataProvider.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T15:05:01.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLNVViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\QLNVViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\QLNVViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\QLNVViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\QLNVViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBIAAAAtAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\App.config",
+              "RelativeDocumentMoniker": "Demo\\App.config",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\App.config",
+              "RelativeToolTip": "Demo\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAmAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-11T15:05:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\SettingViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\SettingViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\SettingViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\SettingViewModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAIA4wCMAAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\ReportView.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\ReportView.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\ReportView.xaml",
+              "RelativeToolTip": "Demo\\View\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\ImportViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\ImportViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\ImportViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\ImportViewModel.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwCIAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\App.xaml",
+              "RelativeDocumentMoniker": "Demo\\App.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\App.xaml",
+              "RelativeToolTip": "Demo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailCustomer.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\DetailCustomer.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\DetailCustomer.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\DetailCustomer.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\DetailCustomer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCAAAAA7AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "View\\DetailMoi1.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi1.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\DetailMoi1.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi1.xaml",
+              "RelativeToolTip": "Demo\\View\\DetailMoi1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View\\DetailMoi.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\DetailMoi.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi.xaml",
+              "RelativeToolTip": "Demo\\View\\DetailMoi.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddNDView.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\AddNDView.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\AddNDView.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\AddNDView.xaml",
+              "RelativeToolTip": "Demo\\View\\AddNDView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetailCustomerView.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailCustomerView.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\DetailCustomerView.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailCustomerView.xaml",
+              "RelativeToolTip": "Demo\\View\\DetailCustomerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "View\\DetailMoi2.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi2.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\DetailMoi2.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\DetailMoi2.xaml",
+              "RelativeToolTip": "Demo\\View\\DetailMoi2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersView.xaml",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\CustomersView.xaml",
+              "RelativeDocumentMoniker": "Demo\\View\\CustomersView.xaml",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\View\\CustomersView.xaml",
+              "RelativeToolTip": "Demo\\View\\CustomersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-11T15:05:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DetailProductViewModel.cs",
+              "DocumentMoniker": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\DetailProductViewModel.cs",
+              "RelativeDocumentMoniker": "Demo\\ViewModel\\DetailProductViewModel.cs",
+              "ToolTip": "D:\\HCM UAF\\ClothesShopManagement-App\\Clothes Shop Management Demo\\Demo\\ViewModel\\DetailProductViewModel.cs",
+              "RelativeToolTip": "Demo\\ViewModel\\DetailProductViewModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAAAMAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-08-11T15:05:01.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
