@@ -108,10 +108,6 @@ Kinh tế ngày càng phát triển, đây là thời buổi của công nghệ,
 
 ## III. Tác giả
 
-* [Tô Thế Kiệt – Trưởng nhóm](https://github.com/kiethongngu)
-* [Đào Anh Tú](https://github.com/anhtu301003)
-* [Ngô Hữu Thiên](https://github.com/takaesa)
-* [Vũ Hoàng Nhật Minh](https://github.com/Minguml)
 
 <!-- NGƯỜI HƯỚNG DẪN -->
 <div id="Nguoihuongdan"></div>
