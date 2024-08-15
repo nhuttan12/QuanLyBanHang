@@ -113,7 +113,7 @@ Kinh tế ngày càng phát triển, đây là thời buổi của công nghệ,
 <div id="Nguoihuongdan"></div>
 
 ## IV. Người hướng dẫn
-* Giảng viên: Nguyễn Tấn Toàn
+* Giảng viên: Võ Tấn Toàn
 
 
 
