@@ -3,3 +3,36 @@
 Clothes Shop Management Demo/.vs/Clothes Shop Management Demo/FileContentIndex/572faec5-0203-41cb-ad09-86b44d8a3869.vsidx
 *.vsidx
 *.vsidx
+# Các file cấu hình của Visual Studio
+.vs/
+*.user
+*.suo
+
+# Thư mục chứa các bản build
+bin/
+obj/
+
+# Các thư mục liên quan đến NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Thư mục tạm
+*.log
+*.tmp
+*.temp
+
+# File cấu hình của hệ điều hành
+.DS_Store
+Thumbs.db
+
+# File tạm khi làm việc với WPF
+*.cache
+*.ide
+
+# Thư mục chứa dữ liệu của ứng dụng
+App_Data/
+
+# File lock của JetBrains Rider
+.idea/
