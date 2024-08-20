@@ -65,8 +65,8 @@ namespace Demo.ViewModel
             MailMessage message = new MailMessage();
             Attachment attachment;
             string msg = parameter.MSGBox.Text;
-            message.From = new MailAddress("vhnm3004@gmail.com");
-            message.To.Add("vhnm3004@outlook.com");
+            message.From = new MailAddress("phamnhuttan.9a6.2017@gmail.com");
+            message.To.Add("21130530@st.hcmuaf.edu.vn");
             message.Subject = parameter.SubjectBox.Text;
             message.Body = parameter.MSGBox.Text;
             message.IsBodyHtml = true;
@@ -78,7 +78,7 @@ namespace Demo.ViewModel
             SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
             smtpClient.EnableSsl = true;
             smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
-            smtpClient.Credentials = new NetworkCredential("vhnm3004@gmail.com", "snnaarxvfndqhptl");
+            smtpClient.Credentials = new NetworkCredential("phamnhuttan.9a6.2017@gmail.com", "esxf wnlr oqlf sgol");
             smtpClient.Send(message);
             MessageBox.Show("Đã gửi báo lỗi thành công!", "Thông báo");
         }
