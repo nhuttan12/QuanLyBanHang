@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\HCM UAF\ClothesShopManagement-App\Clothes Shop Management Demo\Demo\obj\Debug\
+D:\storage\workspase-cshape\QuanLyBanHang\Clothes Shop Management Demo\Demo\obj\Debug\
 Demo
 none
 false
 DEBUG;TRACE
-D:\HCM UAF\ClothesShopManagement-App\Clothes Shop Management Demo\Demo\App.xaml
-36-1581212779
+D:\storage\workspase-cshape\QuanLyBanHang\Clothes Shop Management Demo\Demo\App.xaml
+36-1350406582
 
-77-476919857
-411312562888
-MainWindow.xaml;Resource\InfoCard.xaml;Resource\MainResource.xaml;Resource\StyleRecourse.xaml;UserControls\InforCard.xaml;UserControls\Item.xaml;View\AddCustomerView.xaml;View\AddImpotView.xaml;View\AddNDView.xaml;View\AddOrderView.xaml;View\AddProductView.xaml;View\ChangePassword.xaml;View\CustomersView.xaml;View\DetailCustomerView.xaml;View\DetailImport.xaml;View\DetailMoi.xaml;View\DetailMoi1.xaml;View\DetailMoi2.xaml;View\DetailNDView.xaml;View\DetailsOrder.xaml;View\DetailsProduct.xaml;View\ForgetPassView.xaml;View\HomeView.xaml;View\ImportView.xaml;View\LoginView.xaml;View\LoginViewPage.xaml;View\MainView.xaml;View\NotiCustomer.xaml;View\NotiDev.xaml;View\OrderView.xaml;View\PrintOrderView.xaml;View\ProductViewPage.xaml;View\QLNVView.xaml;View\ReportView.xaml;View\SettingView.xaml;View\SignUpView.xaml;
+761001285269
+41-2004038785
+MainWindow.xaml;Resource\InfoCard.xaml;Resource\MainResource.xaml;Resource\StyleRecourse.xaml;UserControls\InforCard.xaml;UserControls\Item.xaml;View\Customer\AddCustomerView.xaml;View\ImportProduct\AddImpotView.xaml;View\AddNDView.xaml;View\Order\AddOrderView.xaml;View\Product\AddProductView.xaml;View\ChangePassword.xaml;View\Customer\CustomersView.xaml;View\Customer\DetailCustomerView.xaml;View\DetailImport.xaml;View\DetailMoi.xaml;View\DetailMoi1.xaml;View\DetailMoi2.xaml;View\DetailNDView.xaml;View\Order\DetailsOrder.xaml;View\Product\DetailsProduct.xaml;View\ForgetPassView.xaml;View\HomeView.xaml;View\ImportProduct\ImportView.xaml;View\LoginView.xaml;View\LoginViewPage.xaml;View\MainView.xaml;View\NotiCustomer.xaml;View\NotiDev.xaml;View\Order\OrderView.xaml;View\Order\PrintOrderView.xaml;View\Product\ProductViewPage.xaml;View\QLNVView.xaml;View\ReportView.xaml;View\SettingView.xaml;View\SignUpView.xaml;
 
-False
+True
 

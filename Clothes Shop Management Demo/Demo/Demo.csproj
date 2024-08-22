@@ -148,7 +148,6 @@
     <Compile Include="Model\NGUOIDUNG.cs" />
     <Compile Include="Model\PHIEUNHAP.cs" />
     <Compile Include="Model\SANPHAM.cs" />
-    <Compile Include="Model\sysdiagram.cs" />
     <Compile Include="Resource\InfoCard.xaml.cs">
       <DependentUpon>InfoCard.xaml</DependentUpon>
     </Compile>
@@ -185,28 +184,28 @@
     <Compile Include="ViewModel\DetailImportViewModel.cs" />
     <Compile Include="ViewModel\DetailCustomer.cs" />
     <Compile Include="ViewModel\CustomerViewModel.cs" />
-    <Compile Include="View\AddCustomerView.xaml.cs">
+    <Compile Include="View\Customer\AddCustomerView.xaml.cs">
       <DependentUpon>AddCustomerView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\AddImpotView.xaml.cs">
+    <Compile Include="View\ImportProduct\AddImpotView.xaml.cs">
       <DependentUpon>AddImpotView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\AddNDView.xaml.cs">
       <DependentUpon>AddNDView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\AddOrderView.xaml.cs">
+    <Compile Include="View\Order\AddOrderView.xaml.cs">
       <DependentUpon>AddOrderView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\AddProductView.xaml.cs">
+    <Compile Include="View\Product\AddProductView.xaml.cs">
       <DependentUpon>AddProductView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\ChangePassword.xaml.cs">
       <DependentUpon>ChangePassword.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\CustomersView.xaml.cs">
+    <Compile Include="View\Customer\CustomersView.xaml.cs">
       <DependentUpon>CustomersView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\DetailCustomerView.xaml.cs">
+    <Compile Include="View\Customer\DetailCustomerView.xaml.cs">
       <DependentUpon>DetailCustomerView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\DetailImport.xaml.cs">
@@ -224,10 +223,10 @@
     <Compile Include="View\DetailNDView.xaml.cs">
       <DependentUpon>DetailNDView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\DetailsOrder.xaml.cs">
+    <Compile Include="View\Order\DetailsOrder.xaml.cs">
       <DependentUpon>DetailsOrder.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\DetailsProduct.xaml.cs">
+    <Compile Include="View\Product\DetailsProduct.xaml.cs">
       <DependentUpon>DetailsProduct.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\ForgetPassView.xaml.cs">
@@ -236,7 +235,7 @@
     <Compile Include="View\HomeView.xaml.cs">
       <DependentUpon>HomeView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\ImportView.xaml.cs">
+    <Compile Include="View\ImportProduct\ImportView.xaml.cs">
       <DependentUpon>ImportView.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\LoginView.xaml.cs">
@@ -254,13 +253,13 @@
     <Compile Include="View\NotiDev.xaml.cs">
       <DependentUpon>NotiDev.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\OrderView.xaml.cs">
+    <Compile Include="View\Order\OrderView.xaml.cs">
       <DependentUpon>OrderView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\PrintOrderView.xaml.cs">
+    <Compile Include="View\Order\PrintOrderView.xaml.cs">
       <DependentUpon>PrintOrderView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="View\ProductViewPage.xaml.cs">
+    <Compile Include="View\Product\ProductViewPage.xaml.cs">
       <DependentUpon>ProductViewPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="View\QLNVView.xaml.cs">
@@ -307,11 +306,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\AddCustomerView.xaml">
+    <Page Include="View\Customer\AddCustomerView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\AddImpotView.xaml">
+    <Page Include="View\ImportProduct\AddImpotView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -319,11 +318,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\AddOrderView.xaml">
+    <Page Include="View\Order\AddOrderView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\AddProductView.xaml">
+    <Page Include="View\Product\AddProductView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -331,11 +330,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\CustomersView.xaml">
+    <Page Include="View\Customer\CustomersView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\DetailCustomerView.xaml">
+    <Page Include="View\Customer\DetailCustomerView.xaml">
       <SubType>Designer</SubType>
       <Generator>XamlIntelliSenseFileGenerator</Generator>
     </Page>
@@ -359,11 +358,11 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\DetailsOrder.xaml">
+    <Page Include="View\Order\DetailsOrder.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\DetailsProduct.xaml">
+    <Page Include="View\Product\DetailsProduct.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -375,7 +374,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\ImportView.xaml">
+    <Page Include="View\ImportProduct\ImportView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -399,15 +398,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\OrderView.xaml">
+    <Page Include="View\Order\OrderView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="View\PrintOrderView.xaml">
+    <Page Include="View\Order\PrintOrderView.xaml">
       <SubType>Designer</SubType>
       <Generator>XamlIntelliSenseFileGenerator</Generator>
     </Page>
-    <Page Include="View\ProductViewPage.xaml">
+    <Page Include="View\Product\ProductViewPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
